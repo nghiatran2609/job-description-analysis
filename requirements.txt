@@ -1,0 +1,12 @@
+# For jupyter notebook
+ipykernel
+
+# General DS&AI libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# NLP libraries
+transformers
+torch
